@@ -1,0 +1,29 @@
+Sign up page: (//android.view.View[@content-desc=", "])[1]
+username input: (//android.view.View[@content-desc=", "])[3]
+email input:   (//android.view.View[@content-desc=", "])[5]
+password input: (//android.view.View[@content-desc=", "])[7]
+Sign up button: (//android.widget.Button[@content-desc=", "])[1]
+Login button: (//android.widget.Button[@content-desc=", "])[2]
+Skip sign up button: (//android.widget.Button[@content-desc=", "])[3]
+Reset password before login: (//android.widget.Button[@content-desc=", "])[3]
+Get user button before login: (//android.widget.Button[@content-desc=", "])[4]
+Get user details text field: (//android.widget.TextView[@content-desc=", "])[2]
+
+Reset password page: (//android.view.View[@content-desc=", "])[1]
+Enter email field: (//android.view.View[@content-desc=", "])[3]
+Reset password button before login: (//android.widget.Button[@content-desc=", "])[3]
+Reset password button after login: (//android.widget.Button[@content-desc=", "])[2]
+
+Home page text:(//android.view.View[@content-desc=", "])[1]
+Hi welcome text: (//android.widget.TextView[@content-desc=", "])[2]
+Switch off: //android.widget.Switch[@content-desc=", "]/android.widget.Switch
+Get user button after login: (//android.widget.Button[@content-desc=", "])[2]
+Get user details text field: (//android.view.View[@content-desc=", "])[3]
+Change password button: (//android.widget.Button[@content-desc=", "])[3]
+Logout button: (//android.widget.Button[@content-desc=", "])[4]
+
+
+Change password page text: (//android.view.View[@content-desc=", "])[1]
+old_password: (//android.view.View[@content-desc=", "])[3]
+new_password: (//android.view.View[@content-desc=", "])[5]
+Change password button: (//android.widget.Button[@content-desc=", "])[2]
